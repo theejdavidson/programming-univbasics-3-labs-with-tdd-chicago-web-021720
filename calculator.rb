@@ -4,4 +4,4 @@ second_number = 1.5
 sum = first_number + second_number
 difference = first_number - second_number
 product = first_number * second_number
-quotent = second_number / first_number
+quotient = second_number / first_number
